@@ -1,0 +1,16 @@
+// Fundamentals
+git init
+git add .
+git commit -m "Your commit messsage"
+
+Not Mandatory :> 
+git status
+git unset //Opposit of git add .
+git log
+
+//Advanced
+git branch
+git checkout
+git merge
+
+git pull origin main / git pull origin <branch Name>
